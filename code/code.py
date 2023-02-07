@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df=pd.read_csv('data/tested.csv')
+df=pd.read_csv('../data/tested.csv')
 #print(df)
 '''
 print(df.shape)#Print no of rows and coloums
